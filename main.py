@@ -1,5 +1,4 @@
-wort_string = "Ein, Wort, mit, mehrehrem, Kommas"
+liste = [1,34,5,6,3,32]
 
-wort_string = wort_string.split(",")
-print(wort_string[-1])
 
+print(liste[-1:])
